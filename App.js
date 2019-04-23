@@ -43,6 +43,7 @@ class App extends Component{
   return (
     
     <div className="App">
+    
    
      <h1>Share your suggestion on the plot!</h1>
     
@@ -58,7 +59,10 @@ class App extends Component{
      <h1>    </h1>
      
      <button onClick={this.aaa}>Submit!</button>
-     
+     <img src={"https://images-na.ssl-images-amazon.com/images/I/51Mbanx0rlL._SX327_BO1,204,203,200_.jpg"} alt=''></img>
+     <img src={"https://fearrington.com/wp-content/uploads/2018/03/love-and-ruin.jpg"} width="400px" height="500px" alt=''></img>
+     <img src={"https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/11/01/14/books-to-read.jpeg"} width="450px" height="500px" alt=''></img>
+
     </div>
     
     
